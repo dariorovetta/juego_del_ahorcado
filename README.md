@@ -1,5 +1,4 @@
 # juego_del_ahorcado
-# Juego del ahorcado en Python
 
 # Importar librerías
 
